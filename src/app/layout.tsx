@@ -16,7 +16,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         {children}
-        <SpeedInsights />
+        <SpeedInsights debug={true} />
       </body>
     </html>
   );
