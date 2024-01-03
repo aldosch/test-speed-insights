@@ -8,10 +8,10 @@ export default function Home() {
           <h1 className="text-2xl font-bold">Test Speed Insights</h1>
           <Link
             className="hover:underline hover:text-purple-600 text-purple-500"
-            href={"https://vercel.com/docs/speed-insights"}
+            href={"https://github.com/aldosch/test-speed-insights"}
             target="_blank"
           >
-            Testing Vercel speed insights
+            Git repo
           </Link>
         </div>
       </div>
